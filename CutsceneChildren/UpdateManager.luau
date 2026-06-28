@@ -1,5 +1,5 @@
 --// REFERENCES \\--
-local InstanceClasses = script.InstanceClasses
+local InstanceClasses = script.InstanceClasses -- folder under CutsceneChildren
 
 --// DEPENDENCIES \\--
 local Types = require(script.Parent.Types)
